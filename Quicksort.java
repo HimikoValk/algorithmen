@@ -8,7 +8,7 @@ package Quicksort;
 /** 
 *Author: @himiko
 *
-**/
+*/
 
 public class Quicksort {
 
